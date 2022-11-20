@@ -1,3 +1,3 @@
 # HTML Sections
-Complete Website
+Fully Responsive Website
 
